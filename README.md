@@ -1,6 +1,6 @@
 # app_live_browserstack_integration
 
-A new Flutter project.
+
 
 ## Getting Started
 
