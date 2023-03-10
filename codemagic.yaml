@@ -11,7 +11,7 @@ workflows:
         XCODE_SCHEME: "Runner"                
         BUNDLE_ID: "com.example.integrationBrowserstack" # <-- Put your bundle id here dhfkdsf
       flutter: stable
-      xcode: 13.0
+      xcode: 14.2
       cocoapods: default
     scripts: 
       - name: Set up keychain to be used for codesigning using Codemagic CLI 'keychain' command
